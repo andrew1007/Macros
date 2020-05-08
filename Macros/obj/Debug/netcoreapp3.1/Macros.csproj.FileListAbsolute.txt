@@ -1,0 +1,2 @@
+C:\Users\yueha\source\repos\Macros\Macros\obj\Debug\netcoreapp3.1\Macros.csprojAssemblyReference.cache
+C:\Users\yueha\source\repos\Macros\Macros\obj\Debug\netcoreapp3.1\Macros.csproj.CoreCompileInputs.cache
